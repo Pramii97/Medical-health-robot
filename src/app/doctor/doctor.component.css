@@ -1,0 +1,11 @@
+.wrapper{
+    margin: 0 auto;
+    padding: 10;
+    width:1000;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width: 1000px;
+    background-color: #ADCAD180;
+    text-align: center;
+}

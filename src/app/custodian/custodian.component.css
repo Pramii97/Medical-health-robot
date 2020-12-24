@@ -1,0 +1,10 @@
+.wrapper{
+    margin: 0 auto;
+    padding: 0;
+    width: 1000px;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    background-color: #9c89897d;
+    text-align: center;
+}

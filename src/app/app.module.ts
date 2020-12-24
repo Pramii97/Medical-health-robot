@@ -10,6 +10,9 @@ import { NewsComponent} from './news/news.component';
 import { RegisterComponent} from './register/register.component';
 import { SignInComponent } from './sign-in/sign-in.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { PatientComponent } from './patient/patient.component';
+import { DoctorComponent } from './doctor/doctor.component';
+import { CustodianComponent } from './custodian/custodian.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +22,10 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     ContactComponent,
     NewsComponent,
     RegisterComponent,
-    SignInComponent
+    SignInComponent,
+    PatientComponent,
+    DoctorComponent,
+    CustodianComponent
   ],
   imports: [
     BrowserModule,
